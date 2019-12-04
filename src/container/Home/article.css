@@ -1,0 +1,10 @@
+.title{
+    text-align: center;
+}
+.thumb{
+    display: flex;
+    justify-content: center;
+}
+.content{
+    padding: 40px;
+}

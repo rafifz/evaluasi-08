@@ -1,0 +1,31 @@
+.Berita{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    display: flex;
+    width: 400px;
+    height: 100px;
+    border-bottom: 1px solid grey;
+}
+.Berita:hover{
+    border-left: 8px solid blue;
+}
+.Berita p{
+    font-size: smaller;
+    opacity: .5;
+    font-weight: bold;
+    
+}
+.Berita a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.Berita a:hover{
+    color: blue;
+}
+.Berita img{
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 100px;
+}
